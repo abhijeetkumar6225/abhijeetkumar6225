@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Abhijeet%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
+ 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijeet+Kumar;AI%2FML+Engineer+%F0%9F%A4%96;B.Tech+Graduate+%F0%9F%8E%93;Building+things+that+actually+ship+%F0%9F%9A%80)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Multi-Agent+AI+Systems;Turning+Models+into+Deployed+Products)
