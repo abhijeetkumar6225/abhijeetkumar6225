@@ -60,6 +60,17 @@ CNN-based classifier achieving **97% accuracy** across 38 plant disease classes 
 
 <br>
 
+
+### 🤖 LangGraph Chatbot with RAG
+Stateful AI chatbot built on LangGraph with tool calling (web search, calculator, stock lookup) and persistent SQLite conversation memory. Includes RAG: upload a PDF or paste any website URL and chat with its content. Streaming Streamlit interface.
+
+`LangGraph` `LangChain` `RAG` `Tool Calling` `Streamlit` `SQLite`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeetkumar6225/langgraph_chatbot)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://langgraph-chatbot-ry6c.onrender.com/)
+
+
+<br>
 ### 📚 RAG Book Assistant
 Retrieval-augmented Q&A system over books using LangChain, Mistral AI, and ChromaDB, with a Streamlit interface. Being extended into an agentic architecture with tool-calling and citation grounding.
 
@@ -69,17 +80,6 @@ Retrieval-augmented Q&A system over books using LangChain, Mistral AI, and Chrom
 
 <br>
 
-### 🤖 LangGraph Chatbot with RAG
-Stateful AI chatbot built on LangGraph with tool calling (web search, calculator, stock lookup) and persistent SQLite conversation memory. Includes RAG: upload a PDF or paste any website URL and chat with its content. Streaming Streamlit interface.
-
-`LangGraph` `LangChain` `RAG` `Tool Calling` `Streamlit` `SQLite`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeetkumar6225/langgraph_chatbot)
-<!-- Add after deploying:
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_URL)
--->
-
-<br>
 
 📌 *More on my pinned repositories below.*
 
