@@ -71,7 +71,9 @@ Stateful AI chatbot built on LangGraph with tool calling (web search, calculator
 
 
 <br>
+
 ### 📚 RAG Book Assistant
+
 Retrieval-augmented Q&A system over books using LangChain, Mistral AI, and ChromaDB, with a Streamlit interface. Being extended into an agentic architecture with tool-calling and citation grounding.
 
 `LangChain` `Mistral AI` `ChromaDB` `RAG` `Streamlit`
